@@ -2,6 +2,14 @@ site_name: TDS Builder Docs
 
 nav:
   - Home: index.md
+  - Getting Started: getting_started.md
+  - Core Concepts: concepts.md
+  - Nodes: nodes.md
+  - Tokens: tokens.md
+  - Tasks: tasks.md
+  - Saving and Loading: saving_loading.md
+  - Examples: examples.md
+  - FAQ: faq.md
 
 theme:
   name: readthedocs
